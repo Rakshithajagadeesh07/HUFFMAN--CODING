@@ -32,6 +32,9 @@ Print the characters and its huffmancode<br>
 
 ## Program:
 
+#### Name : Rakshitha J
+#### Reg No : 212223240135
+
 ``` Python
 # Get the input String
 string ="RAKSHITHA"
